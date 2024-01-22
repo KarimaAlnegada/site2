@@ -1,0 +1,174 @@
+body{
+    height: 2000px;
+    background-color: gray;
+}
+.parent{
+   
+    overflow: auto;
+    margin-top: 150px;
+    border: 8px dotted gray;
+    border-radius: 10px;
+    background: rgba(0, 255, 255, 0.671) url(../image/42.gif)  no-repeat bottom right;
+background-size: 100px;
+
+
+
+}
+.div1{
+width: 200px;
+height: 200px;
+border: 3px solid gray;
+border-radius: 10px;
+background: rgba(0, 255, 255, 0.671) url(../image/42.gif)  no-repeat bottom right;;
+background-size: 80px;
+text-align: center;
+float: left;
+margin-left: 80px;
+margin-top: 50px;
+
+
+}
+.div2{
+    width: 200px;
+height: 200px;
+border: 3px solid gray;
+border-radius: 10px;
+background: rgba(0, 255, 255, 0.671) url(../image/42.gif)  no-repeat bottom right;;
+background-size: 80px;
+text-align: center;
+float: left;
+margin: 50px  100px;
+}
+.div3{
+    width: 200px;
+height: 200px;
+border: 3px solid gray;
+border-radius: 10px;
+background: rgba(0, 255, 255, 0.671) url(../image/42.gif)  no-repeat bottom right;;
+background-size: 80px;
+text-align: center;
+float: left;
+margin-top: 50px;
+}
+.div1:hover{
+    background-color: rgb(117, 42, 42);
+
+}
+.a1{
+    display: block;
+    
+   
+}
+.a2{
+    display: block;
+   
+}
+.a3{
+    display: block;
+   
+}
+.div2:hover{
+    background-color: rgb(17, 0, 255);
+
+}
+.div3:hover{
+    background-color: rgb(255, 0, 128);
+
+}
+.bt1:hover{
+background-color: aqua;
+color: blue;
+width: 100px;
+height: 50px;
+border: 3px;
+border-radius: 10px;
+}
+.bt1{
+    width: 100px;
+    height: 30;
+    font-size: 20;
+    border-radius: 8px;
+    background-color: bisque;
+}
+.bt2:hover{
+    background-color: aqua;
+    color: blue;
+    width: 100px;
+    height: 50px;
+    border: 3px;
+    border-radius: 10px;
+    }
+    .bt2{
+        width: 100px;
+        height: 30;
+        font-size: 20;
+        border-radius: 8px;
+        background-color: bisque;
+    }.bt3:hover{
+        background-color: aqua;
+        color: blue;
+        width: 100px;
+        height: 50px;
+        border: 3px;
+        border-radius: 10px;
+        }
+        .bt3{
+            width: 100px;
+            height: 30;
+            font-size: 20;
+            border-radius: 8px;
+            background-color: bisque;
+        }
+        .a1:hover{
+            color: blue;
+            font-size: 20px;
+        }
+        .a2:hover{
+            color: rgb(239, 239, 241);
+            font-size: 20px;
+        }
+        .a3:hover{
+            color: blue;
+            font-size: 20px;
+        }
+        .t1:hover{
+            color: blueviolet;
+            font-size: 25px;
+        }
+        .t2:hover{
+            color: rgb(235, 234, 236);
+            font-size: 25px;
+        }
+        .t3:hover{
+            color: blueviolet;
+            font-size: 25px;
+        }
+        .t1{
+            margin-top: 40px;
+        }
+        .t2{
+            margin-top: 40px;
+        } .t3{
+            margin-top: 40px;
+        }
+        .parent:hover{
+            background-color: rgb(237, 156, 240);
+height: 350px;
+width: 980px;
+background-size: 150px;
+}
+
+
+        
+        /* .div10{ 
+        width: 200px;
+        height: 50px;
+        border: 3px solid gray;
+        border-radius: 10px;
+        background: rgba(0, 255, 255, 0.671) url(../image/42.gif)  no-repeat bottom right;;
+        background-size: 80px;
+        text-align: center;
+       margin-left: 400px;
+       margin-top: 50px;
+       float:bottom;
+        } */ */
